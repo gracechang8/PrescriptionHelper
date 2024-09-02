@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>img/download (1).png</file>
+        <file>img/download (2).png</file>
+        <file>img/download.png</file>
+        <file>img/profile-circle-icon-2048x2048-cqe5466q.png</file>
+        <file>img/download.jpeg</file>
+        <file>img/clock.jpg</file>
+        <file>img/pills.png</file>
+    </qresource>
+</RCC>

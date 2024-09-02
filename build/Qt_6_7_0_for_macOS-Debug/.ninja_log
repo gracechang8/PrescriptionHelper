@@ -1,0 +1,96 @@
+# ninja log v6
+1	265	1725252816139314205	prehelp_autogen/timestamp	bb448fcaf7abf6fa
+1	265	1725252816139314205	prehelp_autogen/mocs_compilation.cpp	bb448fcaf7abf6fa
+1	265	1725252816139314205	/Users/gracechang/Library/Mobile Documents/com~apple~CloudDocs/SUMMER CODING/prehelp/build/Qt_6_7_0_for_macOS-Debug/prehelp_autogen/timestamp	bb448fcaf7abf6fa
+1	265	1725252816139314205	/Users/gracechang/Library/Mobile Documents/com~apple~CloudDocs/SUMMER CODING/prehelp/build/Qt_6_7_0_for_macOS-Debug/prehelp_autogen/mocs_compilation.cpp	bb448fcaf7abf6fa
+266	299	1725252816180537366	prehelp_autogen/EWIEGA46WW/qrc_Resource.cpp	20601f63faa4c2f4
+266	299	1725252816180537366	/Users/gracechang/Library/Mobile Documents/com~apple~CloudDocs/SUMMER CODING/prehelp/build/Qt_6_7_0_for_macOS-Debug/prehelp_autogen/EWIEGA46WW/qrc_Resource.cpp	20601f63faa4c2f4
+301	526	1725252816184147990	CMakeFiles/prehelp.dir/prehelp_autogen/EWIEGA46WW/qrc_Resource.cpp.o	f1e414372ec5cf38
+299	1448	1725252816182609790	CMakeFiles/prehelp.dir/main.cpp.o	218c5abce9c3b74f
+300	1460	1725252816182872280	CMakeFiles/prehelp.dir/settingsdialog.cpp.o	ee2b14d81e009c37
+300	1540	1725252816183673035	CMakeFiles/prehelp.dir/logindialog.cpp.o	84b2dbeb92bb3b6f
+301	1573	1725252816183893456	CMakeFiles/prehelp.dir/registerdialog.cpp.o	83e7355ccfe4a85e
+300	1575	1725252816182989279	CMakeFiles/prehelp.dir/profiledialog.cpp.o	b8d84ab4d44f446
+299	1589	1725252816182331932	CMakeFiles/prehelp.dir/prehelp_autogen/mocs_compilation.cpp.o	7e6a6c48809471dc
+301	1637	1725252816184029782	CMakeFiles/prehelp.dir/addnewdialog.cpp.o	217ea8632b89acbf
+300	1640	1725252816183157220	CMakeFiles/prehelp.dir/managedialog.cpp.o	b6014a91d1b5df31
+299	1751	1725252816182755280	CMakeFiles/prehelp.dir/mainwindow.cpp.o	1f572369e6380bdf
+1752	1868	1725252817634399779	prehelp.app/Contents/MacOS/prehelp	ecebe698f4c9e10
+3	12	1725253513923599223	CMakeFiles/clean.additional	e83a0296258788d6
+12	16	1725253513933204503	clean	19b28889af6e0ca0
+2	10	1725254020243579528	CMakeFiles/clean.additional	e83a0296258788d6
+10	13	1725254020251423476	clean	19b28889af6e0ca0
+12	287	1725254042720460221	prehelp_autogen/timestamp	bb448fcaf7abf6fa
+12	287	1725254042720460221	prehelp_autogen/mocs_compilation.cpp	bb448fcaf7abf6fa
+12	287	1725254042720460221	/Users/gracechang/Library/Mobile Documents/com~apple~CloudDocs/SUMMER CODING/prehelp/build/Qt_6_7_0_for_macOS-Debug/prehelp_autogen/timestamp	bb448fcaf7abf6fa
+12	287	1725254042720460221	/Users/gracechang/Library/Mobile Documents/com~apple~CloudDocs/SUMMER CODING/prehelp/build/Qt_6_7_0_for_macOS-Debug/prehelp_autogen/mocs_compilation.cpp	bb448fcaf7abf6fa
+288	312	1725254042751109851	prehelp_autogen/EWIEGA46WW/qrc_Resource.cpp	20601f63faa4c2f4
+288	312	1725254042751109851	/Users/gracechang/Library/Mobile Documents/com~apple~CloudDocs/SUMMER CODING/prehelp/build/Qt_6_7_0_for_macOS-Debug/prehelp_autogen/EWIEGA46WW/qrc_Resource.cpp	20601f63faa4c2f4
+316	525	1725254042756211011	CMakeFiles/prehelp.dir/prehelp_autogen/EWIEGA46WW/qrc_Resource.cpp.o	f1e414372ec5cf38
+312	1463	1725254042752631807	CMakeFiles/prehelp.dir/settingsdialog.cpp.o	ee2b14d81e009c37
+314	1479	1725254042754605138	CMakeFiles/prehelp.dir/registerdialog.cpp.o	83e7355ccfe4a85e
+312	1533	1725254042752411266	CMakeFiles/prehelp.dir/main.cpp.o	218c5abce9c3b74f
+312	1565	1725254042752216974	CMakeFiles/prehelp.dir/prehelp_autogen/mocs_compilation.cpp.o	7e6a6c48809471dc
+313	1576	1725254042752732849	CMakeFiles/prehelp.dir/profiledialog.cpp.o	b8d84ab4d44f446
+314	1625	1725254042754478513	CMakeFiles/prehelp.dir/logindialog.cpp.o	84b2dbeb92bb3b6f
+313	1631	1725254042752849682	CMakeFiles/prehelp.dir/managedialog.cpp.o	b6014a91d1b5df31
+315	1649	1725254042755373804	CMakeFiles/prehelp.dir/addnewdialog.cpp.o	217ea8632b89acbf
+312	1717	1725254042752526432	CMakeFiles/prehelp.dir/mainwindow.cpp.o	1f572369e6380bdf
+1717	1819	1725254044157454800	prehelp.app/Contents/MacOS/prehelp	ecebe698f4c9e10
+2	12	1725254089787024810	CMakeFiles/clean.additional	e83a0296258788d6
+13	17	1725254089797770506	clean	19b28889af6e0ca0
+9	248	1725254094906540262	prehelp_autogen/timestamp	bb448fcaf7abf6fa
+9	248	1725254094906540262	prehelp_autogen/mocs_compilation.cpp	bb448fcaf7abf6fa
+9	248	1725254094906540262	/Users/gracechang/Library/Mobile Documents/com~apple~CloudDocs/SUMMER CODING/prehelp/build/Qt_6_7_0_for_macOS-Debug/prehelp_autogen/timestamp	bb448fcaf7abf6fa
+9	248	1725254094906540262	/Users/gracechang/Library/Mobile Documents/com~apple~CloudDocs/SUMMER CODING/prehelp/build/Qt_6_7_0_for_macOS-Debug/prehelp_autogen/mocs_compilation.cpp	bb448fcaf7abf6fa
+248	268	1725254094932495190	prehelp_autogen/EWIEGA46WW/qrc_Resource.cpp	20601f63faa4c2f4
+248	268	1725254094932495190	/Users/gracechang/Library/Mobile Documents/com~apple~CloudDocs/SUMMER CODING/prehelp/build/Qt_6_7_0_for_macOS-Debug/prehelp_autogen/EWIEGA46WW/qrc_Resource.cpp	20601f63faa4c2f4
+270	449	1725254094935225312	CMakeFiles/prehelp.dir/prehelp_autogen/EWIEGA46WW/qrc_Resource.cpp.o	f1e414372ec5cf38
+269	1368	1725254094933671106	CMakeFiles/prehelp.dir/main.cpp.o	218c5abce9c3b74f
+268	1418	1725254094933514022	CMakeFiles/prehelp.dir/prehelp_autogen/mocs_compilation.cpp.o	7e6a6c48809471dc
+269	1431	1725254094933997355	CMakeFiles/prehelp.dir/profiledialog.cpp.o	b8d84ab4d44f446
+269	1438	1725254094933896397	CMakeFiles/prehelp.dir/settingsdialog.cpp.o	ee2b14d81e009c37
+269	1453	1725254094934340688	CMakeFiles/prehelp.dir/logindialog.cpp.o	84b2dbeb92bb3b6f
+270	1454	1725254094934698980	CMakeFiles/prehelp.dir/registerdialog.cpp.o	83e7355ccfe4a85e
+269	1489	1725254094934108147	CMakeFiles/prehelp.dir/managedialog.cpp.o	b6014a91d1b5df31
+270	1502	1725254094935039937	CMakeFiles/prehelp.dir/addnewdialog.cpp.o	217ea8632b89acbf
+269	1532	1725254094933786730	CMakeFiles/prehelp.dir/mainwindow.cpp.o	1f572369e6380bdf
+1532	1622	1725254096196822134	prehelp.app/Contents/MacOS/prehelp	ecebe698f4c9e10
+12	22	1725255224926155179	CMakeFiles/clean.additional	e83a0296258788d6
+22	25	1725255224935643918	clean	19b28889af6e0ca0
+12	373	1725255229690937681	prehelp_autogen/timestamp	bb448fcaf7abf6fa
+12	373	1725255229690937681	prehelp_autogen/mocs_compilation.cpp	bb448fcaf7abf6fa
+12	373	1725255229690937681	/Users/gracechang/Library/Mobile Documents/com~apple~CloudDocs/SUMMER CODING/prehelp/build/Qt_6_7_0_for_macOS-Debug/prehelp_autogen/timestamp	bb448fcaf7abf6fa
+12	373	1725255229690937681	/Users/gracechang/Library/Mobile Documents/com~apple~CloudDocs/SUMMER CODING/prehelp/build/Qt_6_7_0_for_macOS-Debug/prehelp_autogen/mocs_compilation.cpp	bb448fcaf7abf6fa
+374	398	1725255229721386562	prehelp_autogen/EWIEGA46WW/qrc_Resource.cpp	20601f63faa4c2f4
+374	398	1725255229721386562	/Users/gracechang/Library/Mobile Documents/com~apple~CloudDocs/SUMMER CODING/prehelp/build/Qt_6_7_0_for_macOS-Debug/prehelp_autogen/EWIEGA46WW/qrc_Resource.cpp	20601f63faa4c2f4
+399	636	1725255229723870684	CMakeFiles/prehelp.dir/prehelp_autogen/EWIEGA46WW/qrc_Resource.cpp.o	f1e414372ec5cf38
+398	1507	1725255229722776935	CMakeFiles/prehelp.dir/settingsdialog.cpp.o	ee2b14d81e009c37
+398	1517	1725255229722563519	CMakeFiles/prehelp.dir/main.cpp.o	218c5abce9c3b74f
+398	1604	1725255229722976602	CMakeFiles/prehelp.dir/profiledialog.cpp.o	b8d84ab4d44f446
+399	1644	1725255229723758142	CMakeFiles/prehelp.dir/addnewdialog.cpp.o	217ea8632b89acbf
+398	1652	1725255229722385352	CMakeFiles/prehelp.dir/prehelp_autogen/mocs_compilation.cpp.o	7e6a6c48809471dc
+399	1653	1725255229723646142	CMakeFiles/prehelp.dir/registerdialog.cpp.o	83e7355ccfe4a85e
+399	1658	1725255229723489476	CMakeFiles/prehelp.dir/logindialog.cpp.o	84b2dbeb92bb3b6f
+398	1710	1725255229723253643	CMakeFiles/prehelp.dir/managedialog.cpp.o	b6014a91d1b5df31
+398	1813	1725255229722675810	CMakeFiles/prehelp.dir/mainwindow.cpp.o	1f572369e6380bdf
+1813	1966	1725255231138197581	prehelp.app/Contents/MacOS/prehelp	ecebe698f4c9e10
+2	13	1725255434450048499	CMakeFiles/clean.additional	e83a0296258788d6
+13	18	1725255434460743487	clean	19b28889af6e0ca0
+10	291	1725255573243354690	prehelp_autogen/timestamp	bb448fcaf7abf6fa
+10	291	1725255573243354690	prehelp_autogen/mocs_compilation.cpp	bb448fcaf7abf6fa
+10	291	1725255573243354690	/Users/gracechang/Library/Mobile Documents/com~apple~CloudDocs/SUMMER CODING/prehelp/build/Qt_6_7_0_for_macOS-Debug/prehelp_autogen/timestamp	bb448fcaf7abf6fa
+10	291	1725255573243354690	/Users/gracechang/Library/Mobile Documents/com~apple~CloudDocs/SUMMER CODING/prehelp/build/Qt_6_7_0_for_macOS-Debug/prehelp_autogen/mocs_compilation.cpp	bb448fcaf7abf6fa
+306	335	1725255573294245881	prehelp_autogen/EWIEGA46WW/qrc_Resource.cpp	20601f63faa4c2f4
+306	335	1725255573294245881	/Users/gracechang/Library/Mobile Documents/com~apple~CloudDocs/SUMMER CODING/prehelp/build/Qt_6_7_0_for_macOS-Debug/prehelp_autogen/EWIEGA46WW/qrc_Resource.cpp	20601f63faa4c2f4
+336	526	1725255573296718920	CMakeFiles/prehelp.dir/prehelp_autogen/EWIEGA46WW/qrc_Resource.cpp.o	f1e414372ec5cf38
+335	1347	1725255573295349880	CMakeFiles/prehelp.dir/main.cpp.o	218c5abce9c3b74f
+335	1465	1725255573295558505	CMakeFiles/prehelp.dir/settingsdialog.cpp.o	ee2b14d81e009c37
+335	1557	1725255573295186255	CMakeFiles/prehelp.dir/prehelp_autogen/mocs_compilation.cpp.o	7e6a6c48809471dc
+335	1563	1725255573295873338	CMakeFiles/prehelp.dir/logindialog.cpp.o	84b2dbeb92bb3b6f
+335	1570	1725255573295658338	CMakeFiles/prehelp.dir/profiledialog.cpp.o	b8d84ab4d44f446
+336	1600	1725255573296073712	CMakeFiles/prehelp.dir/registerdialog.cpp.o	83e7355ccfe4a85e
+336	1627	1725255573296294587	CMakeFiles/prehelp.dir/addnewdialog.cpp.o	217ea8632b89acbf
+335	1651	1725255573295767421	CMakeFiles/prehelp.dir/managedialog.cpp.o	b6014a91d1b5df31
+335	1715	1725255573295459171	CMakeFiles/prehelp.dir/mainwindow.cpp.o	1f572369e6380bdf
+1715	1804	1725255574675855317	prehelp.app/Contents/MacOS/prehelp	ecebe698f4c9e10
